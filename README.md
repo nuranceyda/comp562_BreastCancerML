@@ -1,4 +1,4 @@
-# Classifying breast tumors using machine learning methods
+# Maching Learning Models for Tumor Classification
 ## Brief
 In this project, we employ various machine learning algorithms to determine the best model for classifying malignant versus benign breast tumors based on cell-nucleus measurements. 
 ## Course Component
